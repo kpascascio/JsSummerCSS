@@ -1,0 +1,19 @@
+#yellow {
+	width: 250px; 
+	height: 250px; 
+	background-color: yellow; 
+}
+
+#orange{
+	border: 1px solid orange; 
+}
+
+.yellow {
+	width: 250px; 
+	height: 250px; 
+	background-color: yellow; 
+}
+
+.orange{
+	border: 1px solid orange; 
+}
