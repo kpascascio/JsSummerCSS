@@ -1,4 +1,5 @@
-body {
+body, html {
 	background-color: lightblue;
 	color: brown;
+	margin: 0 0 0 0;
 }
